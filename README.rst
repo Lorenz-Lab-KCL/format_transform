@@ -1,3 +1,4 @@
+========================
 Format transformation
 ========================
 
@@ -5,8 +6,14 @@ Examples using ParmEd_ to transform between different coordinate formats. Tis is
 of Gromacs topology files.
 
 
+How to install ParmEd
+=======================
 
+ParmEd can be easily installed by typing:
 
+.. code-block:: bash
+
+    pip install ParmEd
 
 
 
